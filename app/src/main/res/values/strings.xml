@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Papan Skor Apps</string>
+
+    <string name="facebook_app_id">1527266077419017</string>
+    <string name="fb_login_protocol_scheme">fb1527266077419017</string>
+    <string name="twitter_consumer_key">mJ3v8Wf6sA83kd9zx4Xoqxi1n </string>
+    <string name="twitter_consumer_secret">rnIi31KjKJkNuljQSTSzmlu2L0F3Lbq2Dp94ufgOnZ8QqSz50X</string>
+
+</resources>
